@@ -4,3 +4,16 @@
 <p align="center">
 <img src="http://readme-typing-svg.herokuapp.com?size=30&font=Caveat&color=%ffffff&center=true&vCenter=true&lines=¡Bienvenido!;Este+es+mi+perfil.;MDMX+MKTG'S;">
 </p>
+
+___
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
+  <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js&logoColor=e34f26" /><br>
+  <img src="https://img.shields.io/badge/-Css-black?style=flat-square&logo=html5&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+</p>
+
+___
